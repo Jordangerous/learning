@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://raw.githubusercontent.com/aws/serverless-application-model/main/samtranslator/schema/schema.json": "file:///a%3A/learning/power-platform/custom-connectors/sam.yaml"
-    }
-}
